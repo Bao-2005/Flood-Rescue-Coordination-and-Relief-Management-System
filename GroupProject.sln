@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloodRescueManagementSystem.MVCWebApp.Group5", "FloodRescueManagementSystem.MVCWebApp.Group5\FloodRescueManagementSystem.MVCWebApp.Group5.csproj", "{CC1AF185-D1D7-4942-80DB-F36E5501EADD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloodRescueManagementSystem.Entities.Group5", "FloodRescueManagementSystem.Entities.Group5\FloodRescueManagementSystem.Entities.Group5.csproj", "{CC5748C2-1616-411F-A76C-4AEE838AE388}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloodRescueManagementSystem.Repositories.Group5", "FloodRescueManagementSystem.Repositories.Group5\FloodRescueManagementSystem.Repositories.Group5.csproj", "{29D10A84-ABBE-4A8C-898C-561D31452982}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloodRescueManagementSystem.Services.Group5", "FloodRescueManagementSystem.Services.Group5\FloodRescueManagementSystem.Services.Group5.csproj", "{CAD51881-26D5-416A-BA5F-AB183B240CA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC1AF185-D1D7-4942-80DB-F36E5501EADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC1AF185-D1D7-4942-80DB-F36E5501EADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC1AF185-D1D7-4942-80DB-F36E5501EADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC1AF185-D1D7-4942-80DB-F36E5501EADD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC5748C2-1616-411F-A76C-4AEE838AE388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5748C2-1616-411F-A76C-4AEE838AE388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5748C2-1616-411F-A76C-4AEE838AE388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5748C2-1616-411F-A76C-4AEE838AE388}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29D10A84-ABBE-4A8C-898C-561D31452982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D10A84-ABBE-4A8C-898C-561D31452982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D10A84-ABBE-4A8C-898C-561D31452982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D10A84-ABBE-4A8C-898C-561D31452982}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAD51881-26D5-416A-BA5F-AB183B240CA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD51881-26D5-416A-BA5F-AB183B240CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD51881-26D5-416A-BA5F-AB183B240CA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD51881-26D5-416A-BA5F-AB183B240CA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CF46ECB-CDD3-4328-8444-30DF8EA344E9}
+	EndGlobalSection
+EndGlobal
