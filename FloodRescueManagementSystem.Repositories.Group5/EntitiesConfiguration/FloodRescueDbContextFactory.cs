@@ -13,7 +13,6 @@ namespace FloodRescueManagementSystem.Repositories.Group5.EntitiesConfiguration
     {
         public FloodRescueDbContext CreateDbContext(string[] args)
         {
-            // trỏ về MVCWebApp – nơi có appsettings.json
             IConfiguration configuration = new ConfigurationBuilder()
                 .SetBasePath(Path.Combine(Directory.GetCurrentDirectory(), "../FloodRescueManagementSystem.MVCWebApp.Group5"))
                 .AddJsonFile("appsettings.json", optional: false)
